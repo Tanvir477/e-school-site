@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,600;0,700;0,800;0,900;1,500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navigation{
+    background: #F0FFF0;
+    height: 576px;
+
+
+
+}
+
+.signin-btn{
+    padding: 9px 25px;
+    background-color: #21B573;
+    border: none;
+    border-radius: 33px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s; 
+    color: #fff;      
+}
+.signin-btn:hover{
+ background-color: #84cead;
+}
+ .navbar-nav li{
+    padding: 0px 7px;
+}
+.navbar-nav a{
+    color: black;
+    font-weight: 600; 
+} 
+
